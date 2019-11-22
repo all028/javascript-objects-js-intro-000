@@ -1,6 +1,6 @@
 var playlist = {'Beatles': 'A day in the life'}
 
-function updatePlaylist(){
+function updatePlaylist(playlist, name, song){
 
   return playlist;
 }
